@@ -33,7 +33,7 @@
 - LLMs, Prompt Engineering, Evaluation Pipelines  
 
 **Data & Tools**
-- Jupyter / Colab, Git & GitHub, Linux  
+- Jupyter / Colab, Git & GitHub
 - Matplotlib, Seaborn  
 - Docker (basic), REST APIs  
 
@@ -62,9 +62,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: yourname@ucsd.edu  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
-- 📄 Google Scholar / Website (optional)
+- 📧 Email: kec069@ucsd.edu  
+- 💼 LinkedIn: www.linkedin.com/in/kexin-chen-aa30b3388 
 
 ---
 
